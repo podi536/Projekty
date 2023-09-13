@@ -1,0 +1,38 @@
+body {
+    background-color: #d8e50a;
+    color: #15816c;
+    font-family: Arial;
+}
+
+header {
+    background-color: yellowgreen;
+    color: black;
+    text-align: center;
+    padding: 40px;
+}
+
+section h2{
+    color: darkred;
+    font-family: "Times New Roman";
+    font-size: xx-large;
+    text-align: left;
+}
+
+section {
+    font-family: "Comic Sans MS";
+}
+
+section2 h2{
+    color: darkred;
+    font-family: "Times New Roman";
+    font-size: xx-large;
+}
+
+footer{
+    font-size: small;
+    color: #0d4d3a;
+}
+
+img{
+    width: 100%;
+}
