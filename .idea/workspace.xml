@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Instrukcje/00 Test/Styl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instrukcje/00 Test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instrukcje/01 Super szybko/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instrukcje/02 HTML wzór/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instrukcje/03 Dołączanie skryptu i komentarze dla IE/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instrukcje/03 Dołączanie skryptu i komentarze dla IE/skrypt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instrukcje/04 Walidacja HTML5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instrukcje/05 Rozbudowa nagłówka/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instrukcje/06 Ciało dokumentu/inded.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instrukcje/07 nagłówki/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instrukcje/08 Akapity/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instrukcje/09 Elementy zaadoptowane/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,19 +22,27 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="1p02 &lt;podejmatytus2@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2V18YACCZ28HcoYSL4zz6n9IY0H" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,7 +69,24 @@
       <workItem from="1693992294035" duration="8000" />
       <workItem from="1694422120387" duration="4557000" />
       <workItem from="1694524790692" duration="1983000" />
+      <workItem from="1694594956354" duration="1136000" />
+      <workItem from="1695026579627" duration="5208000" />
     </task>
+    <task id="LOCAL-00001" summary="pierwszy commit">
+      <created>1694595215015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694595215015</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pierwszy commit">
+      <created>1694595243784</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694595243784</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pierwszy commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="pierwszy commit" />
   </component>
 </project>
