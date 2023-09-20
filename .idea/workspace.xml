@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="Cwiczenia 1">
-      <change afterPath="$PROJECT_DIR$/Instrukcje/10 Cytat/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instrukcje/11 Lista/index (zadanie).html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instrukcje/11 Lista/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instrukcje/12 Zachowanie pierwotnego formatowania/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instrukcje/13 Linia pozioma/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instrukcje/14 Figure i figcaption/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instrukcje/15 Elementy wstawiane/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Instrukcje/09 Elementy zaadoptowane/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrukcje/09 Elementy zaadoptowane/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrukcje/10 Cytat/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrukcje/10 Cytat/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,8 @@
       <workItem from="1694524790692" duration="1983000" />
       <workItem from="1694594956354" duration="1136000" />
       <workItem from="1695026579627" duration="5437000" />
-      <workItem from="1695129416008" duration="1953000" />
+      <workItem from="1695129416008" duration="2127000" />
+      <workItem from="1695199602901" duration="2289000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -88,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695032899046</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Cwiczenia 1">
+      <created>1695131542146</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695131542146</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
