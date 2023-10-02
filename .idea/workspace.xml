@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="Instrukcja 3">
-      <change afterPath="$PROJECT_DIR$/Instrukcje/17 Publikowanie filmów/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instrukcje/18 Publikacja plików audio/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instrukcje/19 Publikacja animacji flash/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instrukcje/20 Ramki osadzone/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instrukcje/21 Tworzenie hiper łączy/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instrukcje/22 Kotwica/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instrukcje/23 Odsyłacze względne i bezwzględne/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instrukcje/24 Odsyłacze Graficzne/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Instrukcje/16 Publikacja obrazów/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrukcje/16 Publikacja obrazów/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrukcje/21 Tworzenie hiper łączy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrukcje/21 Tworzenie hiper łączy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrukcje/23 Odsyłacze względne i bezwzględne/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrukcje/23 Odsyłacze względne i bezwzględne/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +68,7 @@
       <workItem from="1695199602901" duration="2289000" />
       <workItem from="1695201923672" duration="15000" />
       <workItem from="1695631402975" duration="5426000" />
-      <workItem from="1696236212123" duration="4265000" />
+      <workItem from="1696236212123" duration="5304000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -124,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695637740039</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Instrukcja 3">
+      <created>1696241532225</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696241532225</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
