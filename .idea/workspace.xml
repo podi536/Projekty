@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="Instrukcja 3">
-      <change afterPath="$PROJECT_DIR$/Instrukcje/28 Formularz/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instrukcje/28 Formularz/index_b.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instrukcje/28 Formularz/index_c.html" afterDir="false" />
+    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="Instrukcja 4">
+      <change afterPath="$PROJECT_DIR$/Instrukcje/30 Pasek stanu i miernik/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instrukcje/31 Osadzanie stylów na stronie/arkusz.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instrukcje/31 Osadzanie stylów na stronie/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrukcje/29 Rozbudowany formularz/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrukcje/29 Rozbudowany formularz/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -30,14 +32,15 @@
         <option value="1p02 &lt;podejmatytus2@gmail.com&gt;" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2V18YACCZ28HcoYSL4zz6n9IY0H" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,21 +49,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/1p02/Documents/Projekty/Instrukcje/28 Formularz",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/1p02/Documents/Projekty/Instrukcje/28 Formularz&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\1p02\Documents\Projekty\Instrukcje\28 Formularz" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -80,7 +88,8 @@
       <workItem from="1695201923672" duration="15000" />
       <workItem from="1695631402975" duration="5426000" />
       <workItem from="1696236212123" duration="5357000" />
-      <workItem from="1696408998074" duration="2210000" />
+      <workItem from="1696408998074" duration="2358000" />
+      <workItem from="1696841063549" duration="1800000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -145,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696242474379</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Instrukcja 4">
+      <option name="closed" value="true" />
+      <created>1696411302134</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696411302134</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +184,7 @@
     <MESSAGE value="Cwiczenia 1" />
     <MESSAGE value="Instrukcja 2" />
     <MESSAGE value="Instrukcja 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Instrukcja 3" />
+    <MESSAGE value="Instrukcja 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Instrukcja 4" />
   </component>
 </project>
