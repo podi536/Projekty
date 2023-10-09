@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8">
+    <title>Własny przykład zastosowania linii (pięciokąt)</title>
+    <style>
+        canvas {
+            border: 1px dashed black;
+        }
+    </style>
+    <script>
+        window.onload = function() {
+            var canvas = document.getElementById("drawingCanvas");
+            var context = canvas.getContext("2d");
+            // Umieść kod odpowiedzialny za rysowanie w tym miejscu.
+
+            context.lineWidth = 6;
+            context.strokeStyle = "rgb(37,190,161)";
+            context.beginPath();
+            context.moveTo(170,150);
+            context.lineTo(250,90);
+            context.lineCap = "round";
+            context.stroke();
+
+            context.lineWidth = 4;
+            context.strokeStyle = "rgb(149,215,29)";
+            context.beginPath();
+            context.moveTo(330, 150);
+            context.lineTo(250, 90);
+            context.lineCap = "round";
+            context.stroke();
+
+            context.lineWidth = 2;
+            context.strokeStyle = "rgb(56,220,156)";
+            context.beginPath();
+            context.moveTo(300, 230);
+            context.lineTo(330, 150);
+            context.lineCap = "round";
+            context.stroke();
+
+            context.lineWidth = 8;
+            context.strokeStyle = "rgb(236,11,11)";
+            context.beginPath();
+            context.moveTo(200,230);
+            context.lineTo(170,150);
+            context.lineCap = "round";
+            context.stroke();
+
+            context.lineWidth = 10;
+            context.strokeStyle = "rgb(185,28,183)";
+            context.beginPath();
+            context.moveTo(200, 230);
+            context.lineTo(300, 230);
+            context.lineCap = "round";
+            context.stroke();
+        };
+    </script>
+</head>
+<body>
+<h2>Autor: Tytus Podejma 1p nr w dzienniku: 22</h2>
+<canvas id="drawingCanvas" width="500" height="300"></canvas>
+</body>
+</html>
