@@ -1,0 +1,27 @@
+#container {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: mediumaquamarine;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+nav{
+    width: 200px;
+    background-color: grey;
+}
+
+article{
+    background-color: white;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}

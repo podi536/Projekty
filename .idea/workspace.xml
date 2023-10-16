@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="Instrukcja 5">
-      <change afterPath="$PROJECT_DIR$/Instrukcje/T05b/index.html" afterDir="false" />
+    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="T05b">
+      <change afterPath="$PROJECT_DIR$/T00/T06/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T00/T06/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -86,7 +87,7 @@
       <workItem from="1696236212123" duration="5357000" />
       <workItem from="1696408998074" duration="2358000" />
       <workItem from="1696841063549" duration="5141000" />
-      <workItem from="1697445812118" duration="1006000" />
+      <workItem from="1697445812118" duration="2824000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -175,7 +176,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696847275608</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="T05b">
+      <option name="closed" value="true" />
+      <created>1697446956357</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1697446956357</updated>
+    </task>
+    <task id="LOCAL-00014" summary="T05b">
+      <option name="closed" value="true" />
+      <created>1697446960074</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1697446960074</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +216,7 @@
     <MESSAGE value="Instrukcja 3" />
     <MESSAGE value="Instrukcja 4" />
     <MESSAGE value="Instrukcja 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Instrukcja 5" />
+    <MESSAGE value="T05b" />
+    <option name="LAST_COMMIT_MESSAGE" value="T05b" />
   </component>
 </project>
