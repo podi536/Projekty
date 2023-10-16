@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="Instrukcja 4">
-      <change afterPath="$PROJECT_DIR$/Instrukcje/32 Szablon canvas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instrukcje/33 Linie/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instrukcje/34 Własny przykład zastosowania linii/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instrukcje/35 Ścieżki i figury/index.html" afterDir="false" />
+    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="Instrukcja 5">
+      <change afterPath="$PROJECT_DIR$/Instrukcje/T05b/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +85,8 @@
       <workItem from="1695631402975" duration="5426000" />
       <workItem from="1696236212123" duration="5357000" />
       <workItem from="1696408998074" duration="2358000" />
-      <workItem from="1696841063549" duration="5047000" />
+      <workItem from="1696841063549" duration="5141000" />
+      <workItem from="1697445812118" duration="1006000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -169,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696843027710</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Instrukcja 5">
+      <option name="closed" value="true" />
+      <created>1696847275608</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696847275608</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +198,7 @@
     <MESSAGE value="Instrukcja 2" />
     <MESSAGE value="Instrukcja 3" />
     <MESSAGE value="Instrukcja 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Instrukcja 4" />
+    <MESSAGE value="Instrukcja 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Instrukcja 5" />
   </component>
 </project>
