@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 #container {
     width: 1200px;
     margin-left: auto;
@@ -9,19 +13,29 @@ header {
     background-color: black;
     color: white;
     text-align: center;
+    padding: 10px;
 }
 
 nav{
     width: 200px;
     background-color: grey;
+    float: left;
+    padding: 10px;
 }
 
 article{
+    width: 1000px;
     background-color: white;
+    float: left;
+    border: black 1px solid;
+    padding: 50px;
+    text-align: justify;
 }
 
 footer {
     background-color: black;
     color: white;
     text-align: center;
+    clear: both;
+    padding: 5px;
 }
