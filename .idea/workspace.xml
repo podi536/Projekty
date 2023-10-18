@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="T00">
+    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="T06">
+      <change afterPath="$PROJECT_DIR$/T00/T15/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T00/T15/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T00/T15/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T00/T15/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T00/T15/5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T00/T15/6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T00/T15/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T00/T15/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T00/T06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/T00/T06/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T00/T06/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/T00/T06/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -88,7 +94,8 @@
       <workItem from="1696408998074" duration="2358000" />
       <workItem from="1696841063549" duration="5141000" />
       <workItem from="1697445812118" duration="3035000" />
-      <workItem from="1697548760475" duration="1243000" />
+      <workItem from="1697548760475" duration="1874000" />
+      <workItem from="1697618601699" duration="1624000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -201,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697452209499</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="T06">
+      <option name="closed" value="true" />
+      <created>1697550045696</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1697550045696</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +241,7 @@
     <MESSAGE value="Instrukcja 4" />
     <MESSAGE value="Instrukcja 5" />
     <MESSAGE value="T05b" />
-    <option name="LAST_COMMIT_MESSAGE" value="T05b" />
+    <MESSAGE value="T06" />
+    <option name="LAST_COMMIT_MESSAGE" value="T06" />
   </component>
 </project>
