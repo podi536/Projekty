@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Formularz rejestracyjny</title>
+</head>
+
+
+
+<body>
+ <form action="http://localhost/skrypt_form.php" method="post">
+     <div>
+         <h1>Formularz rejestracyjny:</h1>
+
+
+         <table>
+             <tr>
+                 <td>Podaj swoje nazwisko:</td>
+                 <td><label><input type="text" name="nazwisko" value="" size="30"></label></td>
+             </tr>
+             <tr>
+                 <td>Podaj swoje imię:</td>
+                 <td><label><input type="text" name="im" value="" size="30"></label></td>
+             </tr>
+         </table>
+
+
+         <p>Wybierz płeć:<br></p>
+         <label><input type="radio" value="kobieta" name="płeć">Kobieta</label>
+         <label><input type="radio" value="mężczyzna" name="płeć">Mężczyzna</label>
+
+
+         <p>Podaj wiek:<br></p>
+         <label><input list="wiek" name="wiek"></label>
+         <datalist id="wiek">
+             <option value="16-24">
+             <option value="25-39">
+             <option value="40-60">
+             <option value="powyżej 60">
+         </datalist>
+
+
+         <p>Podaj adres e-mail:</p>
+         <label><input type="email" name="adr" value="" size="30"></label>
+         <p>Wybierz wykształcenie:</p>
+         <label><input type="radio" value="podstawowe" name="wykszt">Podstawowe<br></label>
+         <label><input type="radio" value="średnie" name="wykszt">Średnie<br></label>
+         <label><input type="radio" value="wyższe" name="wykszt">Wyższe</label>
+
+
+         <p>Wybierz języki:</p>
+         <label><select name="języki" size="6" multiple>
+                 <option value="Język angielski">Język angielski</option>
+                 <option value="Język niemiecki">Język niemiecki</option>
+                 <option value="Język francuski">Język francuski</option>
+                 <option value="Jyk włoski">Język włoski</option>
+                 <option value="Język rosyjski">Język rosyjski</option>
+                 <option value="Język hiszpańi">Język hiszpański</option>
+                 <option value="Język koreański">Język koreański</option>
+                 <option value="Język chiński">Język chiński</option>
+                 <option value="Język japoński">Język japoński</option>
+                 <option value="Język fiński">Język fiński</option>
+                 <option value="Język szwedzki">Język szwedzki</option>
+             </select></label>
+
+
+         <p>Wybierz zainteresowania:</p>
+         <label><input type="checkbox" name="hobby" value="moto">Motoryzacja<br></label>
+         <label><input type="checkbox" name="hobby" value="sport">Sport<br></label>
+         <label><input type="checkbox" name="hobby" value="muza">Muzyka<br></label>
+         <label><input type="checkbox" name="hobby" value="tan">Taniec<br></label>
+         <label><input type="checkbox" name="hobby" value="gry">Gry komputerowe<br></label>
+         <label><input type="checkbox" name="hobby" value="inna">Inne (podaj jakie):</label>
+         <label><input name="hobby"></label>
+
+
+         <p>Wpisz swoje uwagi:</p>
+         <label><textarea name="uwagi" cols="37" rows="7"></textarea></label>
+         <p><label><input type="checkbox" name="opcje"> Zgadzam się na przetwarzanie moich
+             anychsobowych</label></p>
+         <p>
+             <input type="submit" value="Wyślij" name="wyslij">
+             <input type="reset" value="Wyczyść" name="zeruj">
+         </p>
+
+     </div>
+ </form>
+</body>
+</html>
