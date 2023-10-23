@@ -1,0 +1,22 @@
+body {
+    background-color: #a97d46;
+}
+
+table {
+    padding: 10px;
+    width: 75%;
+    height: 100px;
+    margin: 15px auto;
+    background-color: white;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 50px grey;
+    -moz-box-shadow: 5px 5px 50px grey;
+    -webkit-box-shadow: 5px 5px 50px grey;
+    border-color: black;
+}
+
+a {
+    padding: 10px
+}

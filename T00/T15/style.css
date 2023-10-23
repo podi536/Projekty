@@ -2,13 +2,11 @@
     background-color: #a97d46;
 }
 h1 {
-    font-size: xxx-large;
-    font-family: Arial;
+    font: xxx-large/1em Arial;
 }
 
 h3 {
-    font-size: xx-large;
-    font-family: Arial;
+    font: xx-large/1em Arial;
 }
 
 section {
@@ -16,7 +14,7 @@ section {
 }
 
 hr {
-    
+   background-color: black;
 }
 
 

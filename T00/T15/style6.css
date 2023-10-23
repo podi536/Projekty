@@ -1,0 +1,23 @@
+body {
+    background-color: #a97d46;
+}
+
+table {
+    font: 90%/1.5em "Lucida Grande", Geneva,
+                    "DejaVu Sans", "Bitstream Vera Sans", AnjaliOldLipi,
+                    "Lucida Sans", "TrebuchetMS", Arial, Verdana;
+    text-align: center;
+    border: 4px black double;
+    border-spacing: 0;
+    -moz-border-radius: 12px;
+    -moz-box-shadow: #6a3d37 5px 5px 6px;
+    -webkit-border-radius: 12px;
+    -webkit-box-shadow: #6a3d37 5px 5px 6px;
+    border-radius: 12px;
+    box-shadow: #6a3d37 5px 5px 6px;
+    background: #b59d5c;
+}
+
+a {
+    padding: 10px
+}
