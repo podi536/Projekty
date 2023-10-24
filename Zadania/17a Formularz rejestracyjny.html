@@ -15,22 +15,22 @@
 
          <table>
              <tr>
-                 <td>Podaj swoje nazwisko:</td>
+                 <td><b>Podaj swoje nazwisko:</b></td>
                  <td><label><input type="text" name="nazwisko" value="" size="30"></label></td>
              </tr>
              <tr>
-                 <td>Podaj swoje imię:</td>
+                 <td><b>Podaj swoje imię:</b></td>
                  <td><label><input type="text" name="im" value="" size="30"></label></td>
              </tr>
          </table>
 
 
-         <p>Wybierz płeć:<br></p>
+         <p><b>Wybierz płeć:</b><br></p>
          <label><input type="radio" value="kobieta" name="płeć">Kobieta</label>
          <label><input type="radio" value="mężczyzna" name="płeć">Mężczyzna</label>
 
 
-         <p>Podaj wiek:<br></p>
+         <p><b>Podaj wiek:</b><br></p>
          <label><input list="wiek" name="wiek"></label>
          <datalist id="wiek">
              <option value="16-24">
@@ -40,15 +40,17 @@
          </datalist>
 
 
-         <p>Podaj adres e-mail:</p>
+         <p><b>Podaj adres e-mail:</b></p>
          <label><input type="email" name="adr" value="" size="30"></label>
-         <p>Wybierz wykształcenie:</p>
+
+
+         <p><b>Wybierz wykształcenie:</b></p>
          <label><input type="radio" value="podstawowe" name="wykszt">Podstawowe<br></label>
          <label><input type="radio" value="średnie" name="wykszt">Średnie<br></label>
          <label><input type="radio" value="wyższe" name="wykszt">Wyższe</label>
 
 
-         <p>Wybierz języki:</p>
+         <p><b>Wybierz języki:</b></p>
          <label><select name="języki" size="6" multiple>
                  <option value="Język angielski">Język angielski</option>
                  <option value="Język niemiecki">Język niemiecki</option>
@@ -64,7 +66,7 @@
              </select></label>
 
 
-         <p>Wybierz zainteresowania:</p>
+         <p><b>Wybierz zainteresowania:</b></p>
          <label><input type="checkbox" name="hobby" value="moto">Motoryzacja<br></label>
          <label><input type="checkbox" name="hobby" value="sport">Sport<br></label>
          <label><input type="checkbox" name="hobby" value="muza">Muzyka<br></label>
@@ -74,10 +76,46 @@
          <label><input name="hobby"></label>
 
 
-         <p>Wpisz swoje uwagi:</p>
+         <p><b>Wybierz poziom umienętności współpracy:</b><br></p>
+         <label><input type="radio" value="niski" name="płeć">Niski</label>
+         <label><input type="radio" value="średnio-niski" name="płeć">Średnio-niski</label>
+         <label><input type="radio" value="średni" name="płeć">Średni</label>
+         <label><input type="radio" value="średnio-wysoki" name="płeć">Średnio-wysoki</label>
+         <label><input type="radio" value="wysoki" name="płeć">Wysoki</label>
+
+
+         <p><b>Wybierz skąd dowiedziałeś się o tym formularzu?:</b></p>
+         <label><input type="radio" name="info" value="rodzina">Rodziny<br></label>
+         <label><input type="radio" name="info" value="przyjaciele">Przyjaciół<br></label>
+         <label><input type="radio" name="info" value="obcy">Obcych<br></label>
+         <label><input type="radio" name="info" value="strona">Strony internetowej<br></label>
+         <label><input type="radio" name="info" value="social media">Naszych social media<br></label>
+         <label><input type="radio" name="info" value="inna">Inne (podaj jakie):</label>
+         <label><input name="info"></label>
+
+
+         <p><b>Wpisz swoje uwagi:</b></p>
          <label><textarea name="uwagi" cols="37" rows="7"></textarea></label>
          <p><label><input type="checkbox" name="opcje"> Zgadzam się na przetwarzanie moich
-             anychsobowych</label></p>
+             danych osobowych</label></p>
+         <p><label><input type="checkbox" name="opcje">Zgadzam się na wszystkie poniższe zasady:</label></p>
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit
+             . Ab cumque
+             debitis dolor labore mollitia nobis quis sequi
+             voluptates. Accusantium, adipisci atque cupiditate doloremque ducim
+             us eaque enim, error explicabo illo laborum maiores minus
+             nisi pariatur porro rem unde voluptatum! Ab accusamus aper
+             iam asperiores blanditiis dignissimos dolorem, fuga
+             laborum modi natus optio ratione reprehenderit saepe vel veniam vo
+             luptatibus! A culpa delectus facilis ma
+             gnam minima, quaerat tempora ullam voluptate! Blanditiis delectus en
+             im impedit inventore nobis, nulla qui sunt
+             ? Asperiores eveniet ex exercitationem laboriosam nostrum, omnis rem
+             similique sunt. Alias, aliquid blanditii
+             s commodi dolor dolorem explicabo minus, modi placeat, quasi quis rem
+             repellat voluptatem.
+
+             <br></p>
          <p>
              <input type="submit" value="Wyślij" name="wyslij">
              <input type="reset" value="Wyczyść" name="zeruj">

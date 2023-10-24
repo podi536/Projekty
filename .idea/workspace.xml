@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="T15">
-      <change afterPath="$PROJECT_DIR$/Zadania/17a Formularz rejestracyjny.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania/17a Formularz rejestracyjny.html" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/17a Formularz rejestracyjny.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,8 @@
       <workItem from="1697548760475" duration="1874000" />
       <workItem from="1697618601699" duration="1763000" />
       <workItem from="1698050531875" duration="2622000" />
-      <workItem from="1698054658405" duration="1987000" />
+      <workItem from="1698054658405" duration="2378000" />
+      <workItem from="1698153464713" duration="1087000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -235,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698054705884</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="T15">
+      <option name="closed" value="true" />
+      <created>1698057049902</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1698057049902</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
