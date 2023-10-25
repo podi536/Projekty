@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="17a" />
+    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="17a">
+      <change afterPath="$PROJECT_DIR$/Zadania/17b/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania/17a/17a Formularz rejestracyjny.html" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/17a/17a Formularz rejestracyjny.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +65,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\1p02\Documents\Projekty\Instrukcje\28 Formularz" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1p02\Documents\Projekty\Zadania\17a" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -89,6 +96,8 @@
       <workItem from="1698050531875" duration="2622000" />
       <workItem from="1698054658405" duration="2378000" />
       <workItem from="1698153464713" duration="1138000" />
+      <workItem from="1698154694862" duration="29000" />
+      <workItem from="1698223388116" duration="2387000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -249,7 +258,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698154593602</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="17a">
+      <option name="closed" value="true" />
+      <created>1698154714229</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1698154714229</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +293,7 @@
     <MESSAGE value="T05b" />
     <MESSAGE value="T06" />
     <MESSAGE value="T15" />
-    <option name="LAST_COMMIT_MESSAGE" value="T15" />
+    <MESSAGE value="17a" />
+    <option name="LAST_COMMIT_MESSAGE" value="17a" />
   </component>
 </project>

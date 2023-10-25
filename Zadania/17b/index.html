@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Zaprojektuj własne trampki</title>
+</head>
+
+
+<body>
+<h1>Autor: Tytus Podejma, klasa 1p</h1>
+<hr>
+<form action="contest.php" method="post">
+    <fieldset>
+        <legend>Podstawowe dane</legend>
+
+        <ul>
+            <li><label for="form-name">Imię i nazwisko:</label> <input type="text" name="username" id="form-name"></li>
+            <li><label for="form-email">E-mail:</label> <input type="email" name="emailadress" id="form-email"></li>
+            <li><label for="form-tel">Telephone:</label> <input type="tel" name="telephone" id="form-tel"></li>
+            <li><label for="form-story">Moje buty są TAKIE stare...</label><br>
+                <textarea name="story" rows="4" cols="60" maxlength="300" id="form-story" placeholder="Nie więcej niż 300 znaków"></textarea></li>
+        </ul>
+    </fieldset>
+
+
+    <h2>Zaprojektuj własne trampki:</h2>
+    <fieldset>
+        <legend>Własny projekt butów</legend>
+
+        <fieldset>
+            <legend>Kolor<em>(wybierz jedno)</em>:</legend>
+            <ul>
+                <li><label><input type="radio" name="color" value="red">czerwony</label></li>
+                <li><label><input  type="radio" name="color" value="blue"></label>niebieski</li>
+                <li><label><input  type="radio" name="color" value="black"></label>czarny</li>
+                <li><label><input  type="radio" name="color" value="silver"></label>srebrny</li>
+            </ul>
+        </fieldset>
+    </fieldset>
+
+
+    <fieldset>
+        <legend>Opcje<em>(możesz wybrać kilka</em></legend>
+        <ul>
+            <li><label><input type="checkbox" name="features[]" value="laces">Błyszczące sznurówki</label></li>
+            <li><label><input type="checkbox" name="features[]" value="logo" checked>Metalowe logo</label></li>
+            <li><label><input type="checkbox" name="features[]" value="heels">Świecące podeszwy</label></li>
+            <li><label><input type="checkbox" name="features[]" value="mp3">Odtwarzanie MP3</label></li>
+        </ul>
+    </fieldset>
+
+
+    <fieldset>
+        <legend>Rozmiar</legend>
+        <p>Rozmiar zgodny ze standarowymi numerami butów: <label><select name="size" size="1">
+            <option>37</option>
+            <option>38</option>
+            <option>39</option>
+            <option>41</option>
+            <option>42</option>
+            <option>43</option>
+            <option>44</option>
+            <option>45</option>
+            <option>46</option>
+            <option>47</option>
+        </select></label>
+        </p>
+    </fieldset>
+
+
+
+</form>
+</body>
+</html>
