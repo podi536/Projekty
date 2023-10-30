@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Zaprojektuj własne trampki</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 
@@ -11,7 +12,7 @@
 <hr>
 <form action="contest.php" method="post">
     <fieldset>
-        <legend>Podstawowe dane</legend>
+        <legend><b>Podstawowe dane</b></legend>
 
         <ul>
             <li><label for="form-name">Imię i nazwisko:</label> <input type="text" name="username" id="form-name"></li>
@@ -25,10 +26,10 @@
 
     <h2>Zaprojektuj własne trampki:</h2>
     <fieldset>
-        <legend>Własny projekt butów</legend>
+        <legend><b>Własny projekt butów</b></legend>
 
         <fieldset>
-            <legend>Kolor<em>(wybierz jedno)</em>:</legend>
+            <legend><b>Kolor</b><em>(wybierz jedno)</em>:</legend>
             <ul>
                 <li><label><input type="radio" name="color" value="red">czerwony</label></li>
                 <li><label><input  type="radio" name="color" value="blue"></label>niebieski</li>
@@ -40,7 +41,7 @@
 
 
     <fieldset>
-        <legend>Opcje<em>(możesz wybrać kilka</em></legend>
+        <legend><b>Opcje</b><em>(możesz wybrać kilka)</em></legend>
         <ul>
             <li><label><input type="checkbox" name="features[]" value="laces">Błyszczące sznurówki</label></li>
             <li><label><input type="checkbox" name="features[]" value="logo" checked>Metalowe logo</label></li>
@@ -51,7 +52,7 @@
 
 
     <fieldset>
-        <legend>Rozmiar</legend>
+        <legend><b>Rozmiar</b></legend>
         <p>Rozmiar zgodny ze standarowymi numerami butów: <label><select name="size" size="1">
             <option>37</option>
             <option>38</option>
