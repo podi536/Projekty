@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="20 Strona Linuxa">
+    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="21 Przykład strony">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +103,7 @@
       <workItem from="1699369081740" duration="29000" />
       <workItem from="1699436815613" duration="657000" />
       <workItem from="1699868559716" duration="1228000" />
-      <workItem from="1699869915263" duration="729000" />
+      <workItem from="1699869915263" duration="3847000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -325,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699869790887</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="21 Przykład strony">
+      <created>1699870665479</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1699870665479</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,6 +363,7 @@
     <MESSAGE value="17b" />
     <MESSAGE value="T18" />
     <MESSAGE value="20 Strona Linuxa" />
-    <option name="LAST_COMMIT_MESSAGE" value="20 Strona Linuxa" />
+    <MESSAGE value="21 Przykład strony" />
+    <option name="LAST_COMMIT_MESSAGE" value="21 Przykład strony" />
   </component>
 </project>
