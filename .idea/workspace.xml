@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="20 Strona Linuxa">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="20 Strona Linuxa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +99,7 @@
       <workItem from="1699263747455" duration="4287000" />
       <workItem from="1699369081740" duration="29000" />
       <workItem from="1699436815613" duration="657000" />
-      <workItem from="1699868559716" duration="733000" />
+      <workItem from="1699868559716" duration="1038000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -309,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699439076984</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="20 Strona Linuxa">
+      <created>1699869596407</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1699869596407</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
