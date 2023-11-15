@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="21 Przykład strony">
-      <change afterPath="$PROJECT_DIR$/Zadania/22 Test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/22 Test/style.css" afterDir="false" />
+    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="22 test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +105,8 @@
       <workItem from="1699868559716" duration="1228000" />
       <workItem from="1699869915263" duration="4005000" />
       <workItem from="1700041345126" duration="2502000" />
-      <workItem from="1700051865874" duration="660000" />
+      <workItem from="1700051865874" duration="675000" />
+      <workItem from="1700052695983" duration="46000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -343,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699875027485</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="22 test">
+      <created>1700052538976</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1700052538976</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,6 +381,7 @@
     <MESSAGE value="T18" />
     <MESSAGE value="20 Strona Linuxa" />
     <MESSAGE value="21 Przykład strony" />
-    <option name="LAST_COMMIT_MESSAGE" value="21 Przykład strony" />
+    <MESSAGE value="22 test" />
+    <option name="LAST_COMMIT_MESSAGE" value="22 test" />
   </component>
 </project>
