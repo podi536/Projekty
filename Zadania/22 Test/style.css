@@ -1,0 +1,36 @@
+#container {
+    background-color: #27c0c0;
+    margin: 0;
+    
+}
+
+#header {
+    height: 90px;
+    background-color: black;
+    color: orange;
+    text-align: center;
+}
+
+#menu {
+    float: left;
+    background-color: #0a849b;
+    padding: 20px;
+    width: 30%;
+    box-sizing: border-box;
+}
+
+#sidebar {
+    float: left;
+    background-color: yellow;
+    padding: 30px;
+    width: 70%;
+    box-sizing: border-box;
+}
+
+#footer {
+    clear: both;
+    height: 60px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
