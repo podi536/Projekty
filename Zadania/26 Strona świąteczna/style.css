@@ -1,0 +1,26 @@
+body {
+    background-color: #828645;
+    font-family: 'Lato', sans-serif;
+}
+
+#container {
+    width: 1500px;
+    margin: 28px auto auto auto;
+    background-color: #ccd38b;
+    box-sizing: border-box;
+    border: 2px black solid;
+}
+
+#header {
+    height: 10%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#content {
+
+}
+
+#footer {
+
+}
