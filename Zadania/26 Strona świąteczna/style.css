@@ -1,55 +1,109 @@
 body {
-    background-color: #828645;
-    font-family: 'Lato', sans-serif;
+    background-image: url("img/papier1.jpg");
+    font-family: 'Arial', sans-serif;
+
 }
 
 #title {
-    width: 15%;
-    background-color: #778024;
+    width: 30%;
+    background-color: rgb(225, 86, 51);
     height: 10%;
-    box-sizing: border-box;
     border: 2px black solid;
     border-radius: 25px;
     padding: 10px;
-    float: left;
     text-align: center;
-
+    box-sizing: border-box;
+    float: left;
+    margin-left: 20%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 10px 10px 50px #ff0000;
 }
 
-#menu   {
-    width: 60%;
-    background-color: #778024;
+#autor {
+    width: 25%;
+    background-color: rgb(225, 86, 51);
     height: 10%;
-    box-sizing: border-box;
     border: 2px black solid;
     border-radius: 25px;
     padding: 10px;
-    float: left;
-    margin-right: auto;
     text-align: center;
+    box-sizing: border-box;
+    float: right;
+    margin-right: 5%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    opacity: 90%;
 }
 
-#container {
-    width: 90%;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: #ccd38b;
-    box-sizing: border-box;
-    border: 2px black solid;
-    border-radius: 25px;
+#filler {
     clear: both;
 }
 
-#header {
-    height: 10%;
-    padding: 10px;
+#menu   {
+    width: 20%;
+    background-color: #58a658;
     box-sizing: border-box;
+    border: 2px black solid;
+    border-radius: 25px;
+    padding: 10px;
+    float: right;
+    text-align: center;
+    margin-right: 5%;
+    box-shadow: 10px 10px 50px #00ff66;
+}
+
+#tradycje_menu {
+    border-radius: 25px;
+    border: 2px black dotted;
+}
+
+#container {
+    width: 65%;
+    background-color: #dbe0bd;
+    box-sizing: border-box;
+    border: 2px black solid;
+    border-radius: 25px;
+    float: left;
+    margin-left: 5%;
+    box-shadow: 10px 10px 50px #ffffff;
+}
+
+#header {
+    text-align: center;
 }
 
 #content {
-
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#text {
+    float: left;
 }
 
-#footer {
-
+#img1 {
+    margin: 10px;
+    border-radius: 25px;
+    float: right;
+    box-shadow: 2px 2px 25px #70725e;
 }
+
+#img2 {
+    margin: 10px;
+    border-radius: 25px;
+    float: right;
+    box-shadow: 2px 2px 25px #70725e;
+}
+
+#footer_site {
+    clear: both;
+}
+
+a {
+    color: #1e361e;
+}
+
+#a2 {
+    color: black;
+}
+
