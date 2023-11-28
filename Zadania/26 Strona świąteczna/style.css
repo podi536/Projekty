@@ -3,12 +3,41 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+#title {
+    width: 15%;
+    background-color: #778024;
+    height: 10%;
+    box-sizing: border-box;
+    border: 2px black solid;
+    border-radius: 25px;
+    padding: 10px;
+    float: left;
+    text-align: center;
+
+}
+
+#menu   {
+    width: 60%;
+    background-color: #778024;
+    height: 10%;
+    box-sizing: border-box;
+    border: 2px black solid;
+    border-radius: 25px;
+    padding: 10px;
+    float: left;
+    margin-right: auto;
+    text-align: center;
+}
+
 #container {
-    width: 1500px;
-    margin: 28px auto auto auto;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
     background-color: #ccd38b;
     box-sizing: border-box;
     border: 2px black solid;
+    border-radius: 25px;
+    clear: both;
 }
 
 #header {
