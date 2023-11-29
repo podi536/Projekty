@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="25 Deadpool">
-      <change afterPath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/style.css" afterDir="false" />
+    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="26 Strona świąteczna">
+      <change afterPath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/Choinka.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/style2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +112,8 @@
       <workItem from="1700051865874" duration="675000" />
       <workItem from="1700052695983" duration="46000" />
       <workItem from="1700052921374" duration="33000" />
-      <workItem from="1701078250907" duration="5407000" />
+      <workItem from="1701078250907" duration="5658000" />
+      <workItem from="1701250985542" duration="2324000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -367,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701082535308</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="26 Strona świąteczna">
+      <created>1701084635134</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1701084635134</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,6 +412,7 @@
     <MESSAGE value="22 test" />
     <MESSAGE value="21 poprawki" />
     <MESSAGE value="25 Deadpool" />
-    <option name="LAST_COMMIT_MESSAGE" value="25 Deadpool" />
+    <MESSAGE value="26 Strona świąteczna" />
+    <option name="LAST_COMMIT_MESSAGE" value="26 Strona świąteczna" />
   </component>
 </project>
