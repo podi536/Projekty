@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="26 Strona świąteczna">
-      <change afterPath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/Choinka.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/Kolendy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/Potrawy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/Prezenty.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/Wigilia.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/Choinka.html" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/Choinka.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/26 Strona świąteczna/style2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -114,6 +118,8 @@
       <workItem from="1700052921374" duration="33000" />
       <workItem from="1701078250907" duration="5658000" />
       <workItem from="1701250985542" duration="2324000" />
+      <workItem from="1701253334595" duration="155000" />
+      <workItem from="1701261583066" duration="1462000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -377,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701084635134</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="26 Strona świąteczna">
+      <created>1701253469590</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1701253469590</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

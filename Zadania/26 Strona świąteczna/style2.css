@@ -40,9 +40,9 @@ body {
     clear: both;
 }
 
-#menu   {
+#menu {
     width: 20%;
-    background-color: #58a658;
+    background-color: #5bc538;
     box-sizing: border-box;
     border: 2px black solid;
     border-radius: 25px;
@@ -50,7 +50,7 @@ body {
     float: right;
     text-align: center;
     margin-right: 5%;
-    box-shadow: 10px 10px 50px #00ff66;
+    box-shadow: 10px 10px 50px #0f8840;
 }
 
 #tradycje_menu {
@@ -61,13 +61,13 @@ body {
 
 #container {
     width: 65%;
-    background-color: #dbe0bd;
+    background-color: #e5ff76;
     box-sizing: border-box;
     border: 2px black solid;
     border-radius: 25px;
     float: left;
     margin-left: 5%;
-    box-shadow: 10px 10px 50px #ffffff;
+    box-shadow: 10px 10px 50px #fffa00;
 }
 
 #header {
@@ -98,6 +98,19 @@ body {
 
 #footer_site {
     clear: both;
+    width: 28%;
+    background-color: #3b9ba8;
+    box-sizing: border-box;
+    border: 2px black solid;
+    border-radius: 25px;
+    box-shadow: 10px 10px 50px #1737a2;
+    float: right;
+    margin: 50px 5%;
+}
+
+#footer_txt {
+    margin: 1% 2%;
+    text-align: center;
 }
 
 a {
@@ -107,6 +120,9 @@ a {
 #a2 {
     color: black;
 }
+
+
+
 
 #a3 {
     color: #064606;
