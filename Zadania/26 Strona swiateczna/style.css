@@ -1,0 +1,126 @@
+body {
+    background-image: url("img/papier1.jpg");
+    font-family: 'Arial', sans-serif;
+
+}
+
+#title {
+    width: 30%;
+    background-color: rgb(225, 86, 51);
+    height: 10%;
+    border: 2px black solid;
+    border-radius: 25px;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 20%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 10px 10px 50px #ff0000;
+}
+
+#autor {
+    width: 25%;
+    background-color: rgb(225, 86, 51);
+    height: 10%;
+    border: 2px black solid;
+    border-radius: 25px;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    float: right;
+    margin-right: 5%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    opacity: 90%;
+}
+
+#filler {
+    clear: both;
+}
+
+#menu   {
+    width: 20%;
+    background-color: #5bc538;
+    box-sizing: border-box;
+    border: 2px black solid;
+    border-radius: 25px;
+    padding: 15px;
+    float: right;
+    text-align: center;
+    margin-right: 5%;
+    box-shadow: 10px 10px 50px #87ef60;
+}
+
+#container {
+    width: 65%;
+    background-color: #e5ff76;
+    box-sizing: border-box;
+    border: 2px black solid;
+    border-radius: 25px;
+    float: left;
+    margin-left: 5%;
+    box-shadow: 10px 10px 50px #fffa00;
+}
+
+#header {
+    text-align: center;
+}
+
+#content {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#text {
+    float: left;
+}
+
+#img1 {
+    margin: 10px;
+    border-radius: 25px;
+    float: right;
+    box-shadow: 2px 2px 25px #70725e;
+}
+
+#img2 {
+    margin: 30px 10px 20px;
+    border-radius: 25px;
+    float: right;
+    box-shadow: 2px 2px 25px #70725e;
+}
+
+#img3 {
+    margin-left: 100px;
+    margin-top: 30px;
+    border-radius: 25px;
+    float: left;
+    box-shadow: 2px 2px 25px #c90c0c;
+}
+
+#footer_site {
+    clear: both;
+    width: 90%;
+    background-color: #3b9ba8;
+    box-sizing: border-box;
+    border: 2px black solid;
+    border-radius: 25px;
+    box-shadow: 10px 10px 50px #1737a2;
+    float: left;
+    margin: 50px 5%;
+}
+
+#footer_txt {
+    margin: 1% 2%;
+    text-align: center;
+}
+
+a {
+    color: #1e361e;
+}
+
+#a2 {
+    color: black;
+}
+
