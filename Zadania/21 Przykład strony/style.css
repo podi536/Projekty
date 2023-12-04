@@ -1,0 +1,150 @@
+body {
+    font-family: Arial, serif;
+    color: #333333;
+    background-color: #ecf1f9;
+    padding: 40px 0;
+}
+
+section,
+header {
+    padding: 20px 60px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+header {
+    padding-top: 60px;
+    display: flex;
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: 28px;
+    color: black;
+}
+
+span {
+    color: grey;
+}
+
+ul li {
+    margin-bottom: 20px;
+}
+
+.container {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+    width: 960px;
+    background-color: white;
+
+    border-radius: 40px;
+}
+
+.profile-picture {
+    width: 180px;
+    height: 180px;
+}
+
+header address ul {
+    font-style: normal;
+    list-style: none;
+}
+
+.address-line-item {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.address-line-item-icon {
+    width: 16px;
+    height: 16px;
+    background-color: #007ced;
+    margin-right: 10px;
+    padding: 4px;
+    vertical-align: middle;
+}
+.address-line-item-icon {
+    border-radius: 12px;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.big-font-size {
+    font-size: 24px;
+}
+
+.hobbies {
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.hobby {
+    flex-basis: 50%;
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 40px;
+}
+
+.hobby h3 {
+    margin-top: 5px;
+}
+
+.hobby p {
+    color: grey;
+    line-height: 1.5;
+}
+
+.hobby div {
+    margin-left: 20px;
+}
+
+.header-center-element {
+    flex-grow: 1;
+    margin-left: 20px;
+}
+
+.download-cv-link {
+    border: 2px solid #007ced;
+    color: black;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-top: 40px;
+    border-radius: 20px;
+    display: inline-block;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.download-cv-link:visited {
+    border: 2px solid grey;
+}
+
+.download-cv-link:focus {
+    border: 2px solid #007ced;
+    background-color: #007ced;
+    color: white;
+}
+
+.download-cv-link:active {
+    text-decoration: underline;
+}
+
+.download-cv-link:hover {
+    border: 2px solid #007ced;
+    background-color: #007ced;
+    color: white;
+}
+
+.download-cv-link {
+    transition: background-color 0.5s;
+}

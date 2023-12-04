@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="26 Strona świąteczna">
-      <change afterPath="$PROJECT_DIR$/Zadania/28 Zdjęcia pupili/Treść/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/28 Zdjęcia pupili/Treść/koty.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/28 Zdjęcia pupili/Treść/psy.html" afterDir="false" />
+    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="28 strona pupili">
+      <change afterPath="$PROJECT_DIR$/Zadania/28 Zdjęcia pupili/tresc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania/28 Zdjęcia pupili/tresc/koty.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania/28 Zdjęcia pupili/tresc/psy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania/28 Zdjęcia pupili/tresc/styl5.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania/28 Zdjęcia pupili/Treść/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania/28 Zdjęcia pupili/Treść/koty.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania/28 Zdjęcia pupili/Treść/psy.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +23,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -116,7 +120,8 @@
       <workItem from="1701250985542" duration="2324000" />
       <workItem from="1701253334595" duration="155000" />
       <workItem from="1701261583066" duration="2398000" />
-      <workItem from="1701683268649" duration="1597000" />
+      <workItem from="1701683268649" duration="1726000" />
+      <workItem from="1701687046490" duration="2267000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -394,7 +399,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701263949300</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="28 strona pupili">
+      <option name="closed" value="true" />
+      <created>1701685536192</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1701685536192</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -430,6 +443,7 @@
     <MESSAGE value="21 poprawki" />
     <MESSAGE value="25 Deadpool" />
     <MESSAGE value="26 Strona świąteczna" />
-    <option name="LAST_COMMIT_MESSAGE" value="26 Strona świąteczna" />
+    <MESSAGE value="28 strona pupili" />
+    <option name="LAST_COMMIT_MESSAGE" value="28 strona pupili" />
   </component>
 </project>
