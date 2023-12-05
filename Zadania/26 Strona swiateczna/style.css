@@ -40,23 +40,17 @@ body {
     clear: both;
 }
 
-#menu {
+#menu   {
     width: 20%;
     background-color: #5bc538;
     box-sizing: border-box;
     border: 2px black solid;
     border-radius: 25px;
-    padding: 10px;
+    padding: 15px;
     float: right;
     text-align: center;
     margin-right: 5%;
-    box-shadow: 10px 10px 50px #0f8840;
-}
-
-#tradycje_menu {
-    border-radius: 25px;
-    border: 2px black dotted;
-    color: #1e361e;
+    box-shadow: 10px 10px 50px #87ef60;
 }
 
 #container {
@@ -78,6 +72,7 @@ body {
     margin-left: 2%;
     margin-right: 2%;
 }
+
 #text {
     float: left;
 }
@@ -90,21 +85,29 @@ body {
 }
 
 #img2 {
-    margin: 10px;
+    margin: 30px 10px 20px;
     border-radius: 25px;
     float: right;
     box-shadow: 2px 2px 25px #70725e;
 }
 
+#img3 {
+    margin-left: 100px;
+    margin-top: 30px;
+    border-radius: 25px;
+    float: left;
+    box-shadow: 2px 2px 25px #c90c0c;
+}
+
 #footer_site {
     clear: both;
-    width: 28%;
+    width: 90%;
     background-color: #3b9ba8;
     box-sizing: border-box;
     border: 2px black solid;
     border-radius: 25px;
     box-shadow: 10px 10px 50px #1737a2;
-    float: right;
+    float: left;
     margin: 50px 5%;
 }
 
@@ -119,12 +122,5 @@ a {
 
 #a2 {
     color: black;
-}
-
-
-
-
-#a3 {
-    color: #064606;
 }
 
