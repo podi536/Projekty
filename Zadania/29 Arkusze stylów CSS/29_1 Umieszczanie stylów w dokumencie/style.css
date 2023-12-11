@@ -1,8 +1,21 @@
-body {
-    margin: 100px;
-    background-color: #e1e55b;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
-header {
-    background-color: #63cedc;
+h1 {
+    color: red;
+}
+
+h1 {
+    color: green;
+}
+
+#text-id {
+    background-color: sandybrown;
+}
+
+.text-class {
+    background-color: green;
 }
