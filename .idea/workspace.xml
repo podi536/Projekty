@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="29 Arkusze stylów css">
-      <change afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_2 Kaskadowość arkuszy stylów/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_2 Kaskadowość arkuszy stylów/style.css" afterDir="false" />
+    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="29.2 Arkusze stylów css">
+      <change afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_3 Wartości i jednostki/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_3 Wartości i jednostki/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_2 Kaskadowość arkuszy stylów/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_2 Kaskadowość arkuszy stylów/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +128,7 @@
       <workItem from="1701785817455" duration="662000" />
       <workItem from="1701786511937" duration="50000" />
       <workItem from="1701855718205" duration="1815000" />
-      <workItem from="1702287764492" duration="1930000" />
+      <workItem from="1702287764492" duration="3905000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -468,7 +470,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702289588250</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="29.2 Arkusze stylów css">
+      <option name="closed" value="true" />
+      <created>1702290143538</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1702290143538</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,6 +516,7 @@
     <MESSAGE value="26 Strona świąteczna" />
     <MESSAGE value="28 strona pupili" />
     <MESSAGE value="29 Arkusze stylów css" />
-    <option name="LAST_COMMIT_MESSAGE" value="29 Arkusze stylów css" />
+    <MESSAGE value="29.2 Arkusze stylów css" />
+    <option name="LAST_COMMIT_MESSAGE" value="29.2 Arkusze stylów css" />
   </component>
 </project>
