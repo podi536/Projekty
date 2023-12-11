@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: red;
+}
+
+h1 {
+    color: green;
+}
+
+#text-id {
+    background-color: sandybrown;
+}
+
+.text-class {
+    background-color: green;
+}
+
+h2 {
+   color: red!important;
+}
