@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="29.2 Arkusze stylów css">
-      <change afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_3 Wartości i jednostki/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_3 Wartości i jednostki/style.css" afterDir="false" />
+    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="29.3 Jednostki css">
+      <change afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_3 Wartości i jednostki/examples.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_2 Kaskadowość arkuszy stylów/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_2 Kaskadowość arkuszy stylów/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_3 Wartości i jednostki/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_3 Wartości i jednostki/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_3 Wartości i jednostki/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_3 Wartości i jednostki/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,22 +53,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/1p02/WebstormProjects/Projekty/Zadania/29 Arkusze stylów CSS",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/1p02/WebstormProjects/Projekty/Zadania/29 Arkusze stylów CSS&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\1p02\WebstormProjects\Projekty\Zadania\29 Arkusze stylów CSS" />
@@ -128,7 +128,8 @@
       <workItem from="1701785817455" duration="662000" />
       <workItem from="1701786511937" duration="50000" />
       <workItem from="1701855718205" duration="1815000" />
-      <workItem from="1702287764492" duration="3905000" />
+      <workItem from="1702287764492" duration="3937000" />
+      <workItem from="1702390648803" duration="2207000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -478,7 +479,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702290143538</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="29.3 Jednostki css">
+      <option name="closed" value="true" />
+      <created>1702294121378</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1702294121378</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,6 +526,7 @@
     <MESSAGE value="28 strona pupili" />
     <MESSAGE value="29 Arkusze stylów css" />
     <MESSAGE value="29.2 Arkusze stylów css" />
-    <option name="LAST_COMMIT_MESSAGE" value="29.2 Arkusze stylów css" />
+    <MESSAGE value="29.3 Jednostki css" />
+    <option name="LAST_COMMIT_MESSAGE" value="29.3 Jednostki css" />
   </component>
 </project>

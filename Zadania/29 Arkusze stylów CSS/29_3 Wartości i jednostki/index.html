@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>29.3 Wartości i jednostki</title>
+  <link rel="stylesheet" href="examples.css">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -11,9 +12,35 @@
     <h1>Jednostki css</h1>
   </div>
   <div class="container">
-    <h2>em, rem</h2>
-    <p>cos na wzor mnoznika, em działa na rodzica, a rem na "wszystko" (zwykle znacznik "html")</p>
-    <h2>vh, vw, vmin, vmax (viewport, okno)</h2>
+    <ul>
+      <li><b>Box-sizing</b>
+        <ol>
+        <li>content-box<br>
+          -bieżę pod uwagę każdy elemt osobno
+        </li>
+        <li>border-box<br>
+          -stara sie zmieścić wszystkie fragmenty w podanych wymiarach
+        </li>
+        </ol><p>zadaniem funkcji jest sposób dzielenia podanych liczb przez system</p>
+      </li>
+      <li><b>em, rem</b><br>
+        em - mnoży jednostke podaną w funkcji rodzica.
+        rem - mnozy ogolna funkcje na przyklad przegladarki.</li>
+      <li><b>vh, vw, vmin, vmax</b><br>
+      wszystkie te jednostki patrza na "viewport", czyli okno. <br>
+        vh - viewheight <br>
+        vw - viewwidth <br>
+        vmin - viewmin <br>
+        vmax - viewmax <br>
+        vmin i vmax rożni sie tym ze patrza na to czy wysokosc lub szerokosc jest mniejsza od drugiego i wtedy w zaleznosci od jednostki wybiera ja jako ta ktora zmieni
+      </li>
+      <li><b>%</b><br>
+        procent, czyli 1/100 (jeden ze stu)
+      </li>
+      <li><b>px</b><br>
+        jednostkaa absolutna - jest najwazniejsza i nadpiosuje wszystkie inne
+      </li>
+    </ul>
   </div>
 </div>
 </body>
