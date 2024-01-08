@@ -1,0 +1,18 @@
+p:first-letter {
+    font-family: 'Times New Roman', serif;
+    font-size: 300%;
+    float: left;
+    padding-right: 5px;
+}
+
+p:first-line {
+    color: red;
+}
+
+i:before {
+    content: " \FFEB";
+}
+
+u:after {
+    content: " \FFEB";
+}
