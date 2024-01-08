@@ -16,3 +16,32 @@ i:before {
 u:after {
     content: " \FFEB";
 }
+
+a:link {
+    background-color: yellow;
+}
+
+a {
+    font-size: 3em;
+}
+
+a:hover {
+    color: hotpink;
+    background-color: deeppink;
+    font-size: 10em;
+}
+
+a:visited {
+    background-color: #703580;
+    color: #b02a9f;
+}
+
+a:active {
+    font-family: "Comic Sans MS", serif;
+    font-size: 7em;
+}
+
+input:focus {
+    color: green;
+    background-color: cornflowerblue;
+}
