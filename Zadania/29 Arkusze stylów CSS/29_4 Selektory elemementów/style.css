@@ -1,0 +1,38 @@
+* {
+    background-color: #67bbce;
+    box-sizing: border-box;
+}
+
+#container {
+    padding: 20px;
+    background-color: black;
+}
+
+.content {
+    padding: 10px;
+    background-color: #0a849b;
+    font-size: 1.2em;
+}
+
+h1, h2 {
+    color: #08296e;
+    font-family: "Comic Sans MS", serif;
+}
+
+li > b {
+    font-family: Arial, serif;
+    color: darkblue;
+}
+
+li u {
+    font-family: Arial, serif;
+    color: darkblue;
+}
+
+h3 + p {
+    color: #29c720;
+}
+
+h3 ~ p {
+    font-size: 2em;
+}

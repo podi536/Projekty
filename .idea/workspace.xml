@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="29.3 Jednostki css">
-      <change afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_3 Wartości i jednostki/examples.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_4 Selektory elemementów/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_4 Selektory elemementów/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_3 Wartości i jednostki/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_3 Wartości i jednostki/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_3 Wartości i jednostki/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_3 Wartości i jednostki/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +128,10 @@
       <workItem from="1701786511937" duration="50000" />
       <workItem from="1701855718205" duration="1815000" />
       <workItem from="1702287764492" duration="3937000" />
-      <workItem from="1702390648803" duration="2207000" />
+      <workItem from="1702390648803" duration="2227000" />
+      <workItem from="1702892794405" duration="13000" />
+      <workItem from="1702894472329" duration="23000" />
+      <workItem from="1704707176088" duration="2772000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -487,7 +489,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702294121378</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="29.3 Jednostki css">
+      <option name="closed" value="true" />
+      <created>1702392887115</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1702392887115</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
