@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="29.5,6,7">
+    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="29.7 pseudo">
+      <change afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_8 Właściwości elementów czcionki/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_8 Właściwości elementów czcionki/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_7 Pseudoklasy i pseudoelementy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_7 Pseudoklasy i pseudoelementy/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_7 Pseudoklasy i pseudoelementy/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/29 Arkusze stylów CSS/29_7 Pseudoklasy i pseudoelementy/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +132,7 @@
       <workItem from="1702892794405" duration="13000" />
       <workItem from="1702894472329" duration="23000" />
       <workItem from="1704707176088" duration="5120000" />
-      <workItem from="1704720402629" duration="334000" />
+      <workItem from="1704720402629" duration="1646000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -196,14 +196,6 @@
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
       <updated>1696242474379</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Instrukcja 4">
-      <option name="closed" value="true" />
-      <created>1696843027710</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1696843027710</updated>
     </task>
     <task id="LOCAL-00012" summary="Instrukcja 5">
       <option name="closed" value="true" />
@@ -506,7 +498,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704713429617</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="29.7 pseudo">
+      <option name="closed" value="true" />
+      <created>1704720962035</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1704720962035</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -548,6 +548,7 @@
     <MESSAGE value="29.3 Jednostki css" />
     <MESSAGE value="29.4 Selektory elementów" />
     <MESSAGE value="29.5,6,7" />
-    <option name="LAST_COMMIT_MESSAGE" value="29.5,6,7" />
+    <MESSAGE value="29.7 pseudo" />
+    <option name="LAST_COMMIT_MESSAGE" value="29.7 pseudo" />
   </component>
 </project>

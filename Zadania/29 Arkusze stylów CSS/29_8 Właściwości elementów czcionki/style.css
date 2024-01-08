@@ -1,0 +1,40 @@
+body {
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: #98c8ce;
+}
+
+#header {
+    font-family: Arial, sans-serif;
+    color: red;
+    text-align: center;
+}
+
+#topbar {
+    font-family: "Courier New", monospace; font-style: italic;
+    font-size: 1.2em;
+}
+
+#contentA {
+    font-family: "Times New Roman", serif; font-variant: normal;
+    font-size: 1.1em;
+}
+
+#contentB {
+    font-family: "Times New Roman", serif; font-variant: small-caps;
+}
+
+#contentC {
+    font-family: "Comic Sans MS", sans-serif;
+    font-size: 2vmin;
+}
+
+#contentC:first-line {
+    font-weight: bold;
+}
+
+#footer {
+    text-align: center;
+    font: italic bold .9em arial, sans-serif;
+    margin: 75px 10px 10px;
+}
