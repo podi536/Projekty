@@ -1,0 +1,10 @@
+body {
+    background-image: url("img/tlo.jpg");
+    background-repeat: repeat-y;
+    background-position: top right;
+}
+
+#content {
+    background-color: white;
+    margin-right: 200px;
+}

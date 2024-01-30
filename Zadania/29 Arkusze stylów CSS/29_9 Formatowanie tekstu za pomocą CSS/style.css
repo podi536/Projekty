@@ -1,0 +1,43 @@
+p {
+    text-indent: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h3 {
+    text-decoration: overline;
+}
+
+h4 {
+    text-decoration: line-through;
+}
+
+u {
+    letter-spacing: 3px;
+}
+
+i {
+    letter-spacing: 6px;
+}
+
+ul li:first-child {
+    text-transform: capitalize;
+}
+
+ul li:nth-child(2) {
+    text-transform: uppercase;
+}
+
+ul li:nth-child(3) {
+    text-transform: lowercase;
+}
+
+ul li:last-child {
+    text-transform: none;
+}
