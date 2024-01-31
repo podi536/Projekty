@@ -1,0 +1,48 @@
+#content {
+    margin-left: 50px;
+    text-align: center;
+}
+
+h1 {
+    font-weight: normal;
+    padding: 10px;
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+#content h1:first-child {
+    border: dotted 7px red;
+}
+
+#content h1:nth-child(2) {
+    border: dashed 7px red;
+    background-color: lime;
+}
+
+#content h1:nth-child(3) {
+    border: solid 7px red;
+}
+
+#content h1:nth-child(4) {
+    border: double 7px red;
+    background-color: lime;
+}
+
+#content h1:nth-child(5) {
+    border: groove 7px red;
+}
+
+#content h1:nth-child(6) {
+    border: ridge 7px red;
+    background-color: lime;
+}
+
+#content h1:nth-child(7) {
+    border: inset 7px red;
+}
+
+#content h1:last-child {
+    border: outset 7px red;
+    background-color: lime;
+}
