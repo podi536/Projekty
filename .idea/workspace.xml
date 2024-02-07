@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="33 Wykorzystywanie FLEXBOX">
-      <change afterPath="$PROJECT_DIR$/Zadania/33b Grid/basic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/33b Grid/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/33b Grid/grid2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/33b Grid/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/33b Grid/index2.html" afterDir="false" />
+    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="33b Grid">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania/33b Grid/grid2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/33b Grid/grid2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +138,8 @@
       <workItem from="1704720402629" duration="1646000" />
       <workItem from="1706701620136" duration="302000" />
       <workItem from="1707229060185" duration="2208000" />
-      <workItem from="1707298997159" duration="2029000" />
+      <workItem from="1707298997159" duration="2359000" />
+      <workItem from="1707306120701" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -206,14 +203,6 @@
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
       <updated>1696242474379</updated>
-    </task>
-    <task id="LOCAL-00015" summary="T05b">
-      <option name="closed" value="true" />
-      <created>1697452209499</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1697452209499</updated>
     </task>
     <task id="LOCAL-00016" summary="T06">
       <option name="closed" value="true" />
@@ -516,7 +505,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707231268185</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="33b Grid">
+      <option name="closed" value="true" />
+      <created>1707301329936</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1707301329936</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,7 +531,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Instrukcja 2" />
     <MESSAGE value="Instrukcja 3" />
     <MESSAGE value="Instrukcja 4" />
     <MESSAGE value="Instrukcja 5" />
@@ -559,6 +555,7 @@
     <MESSAGE value="29.7 pseudo" />
     <MESSAGE value="29_11" />
     <MESSAGE value="33 Wykorzystywanie FLEXBOX" />
-    <option name="LAST_COMMIT_MESSAGE" value="33 Wykorzystywanie FLEXBOX" />
+    <MESSAGE value="33b Grid" />
+    <option name="LAST_COMMIT_MESSAGE" value="33b Grid" />
   </component>
 </project>
