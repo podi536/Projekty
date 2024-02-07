@@ -1,0 +1,15 @@
+.container {
+    height: 100%;
+    display: grid;
+    grid-gap: 3px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 40px);
+}
+
+.header {
+    grid-column: 1/-1;
+}
+
+.footer {
+    grid-column: 1/-1;
+}
