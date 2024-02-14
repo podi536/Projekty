@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="33c Stacja paliw - grid">
-      <change afterPath="$PROJECT_DIR$/Zadania/34 Menu w CSS/34_1 Przykład/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/34 Menu w CSS/34_1 Przykład/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/34 Menu w CSS/34_2 Przykład/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/34 Menu w CSS/34_2 Przykład/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/34 Menu w CSS/34_3 Przykład/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/34 Menu w CSS/34_3 Przykład/style.css" afterDir="false" />
+    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="34 Menu w CSS">
+      <change afterPath="$PROJECT_DIR$/Zadania/35 Zasady projektowania/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania/35 Zasady projektowania/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania/35 Zasady projektowania/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -145,7 +142,10 @@
       <workItem from="1707229060185" duration="2208000" />
       <workItem from="1707298997159" duration="2359000" />
       <workItem from="1707306120701" duration="2575000" />
-      <workItem from="1707735011904" duration="966000" />
+      <workItem from="1707735011904" duration="1221000" />
+      <workItem from="1707833784981" duration="814000" />
+      <workItem from="1707903766686" duration="1974000" />
+      <workItem from="1707910976718" duration="2126000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -209,14 +209,6 @@
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
       <updated>1696242474379</updated>
-    </task>
-    <task id="LOCAL-00018" summary="T15">
-      <option name="closed" value="true" />
-      <created>1698053029697</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1698053029697</updated>
     </task>
     <task id="LOCAL-00019" summary="T15">
       <option name="closed" value="true" />
@@ -519,7 +511,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707308282782</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="34 Menu w CSS">
+      <option name="closed" value="true" />
+      <created>1707736224765</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1707736224765</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,7 +537,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Instrukcja 4" />
     <MESSAGE value="Instrukcja 5" />
     <MESSAGE value="T05b" />
     <MESSAGE value="T06" />
@@ -562,6 +561,7 @@
     <MESSAGE value="33 Wykorzystywanie FLEXBOX" />
     <MESSAGE value="33b Grid" />
     <MESSAGE value="33c Stacja paliw - grid" />
-    <option name="LAST_COMMIT_MESSAGE" value="33c Stacja paliw - grid" />
+    <MESSAGE value="34 Menu w CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="34 Menu w CSS" />
   </component>
 </project>
