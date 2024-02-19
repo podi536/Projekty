@@ -5,29 +5,47 @@
 
 body {
     font-family: Arial, sans-serif;
-    height: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 .header {
     display: flex;
     justify-content: center;
-    padding: 10px;
+    padding: 20px 10px;
     background-image: url("img/red_pattern.jpg");
     color: white;
-    height: 10%;
+    height: 10vh;
 }
 
 .header h1 {
     font-family: "Times New Roman", serif;
 }
 
-.menu {
+.menus {
     padding: 20px 10px;
     width: 23%;
     display: flex;
+    flex-direction: column;
     justify-content: flex-start;
     background-color: #bd5151;
-    height: 80%;
+
+}
+
+.menu_img img {
+    height: 100px;
+    width: 100px;
+    margin: 10px 30px;
+}
+
+.menu_img img:hover {
+    box-shadow: 2px 2px 25px #ff0000;
+
+}
+
+.menu {
+    margin-top: 20px;
     font-size: large;
 }
 
@@ -39,8 +57,24 @@ body {
 .content {
     padding: 40px 20px;
     width: 77%;
-    height: 80%;
     background-color: sandybrown;
+}
+
+.txt {
+    margin-bottom: 30px;
+}
+
+.txt .b9 {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.content li {
+    margin-bottom: 10px;
+}
+
+.content li u {
+    font-weight: bold;
 }
 
 .title {
@@ -52,10 +86,13 @@ body {
 .content-container {
     display: flex;
     flex-direction: row;
+    margin: auto 0;
+    height: 85vh;
 }
 
 .footer {
     width: 100%;
+    height: 5vh;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -64,6 +101,7 @@ body {
     padding: 10px;
     font-family: "Comic Sans MS", sans-serif;
     position: absolute;
+    margin-top: auto;
 }
 
 a {
@@ -73,4 +111,17 @@ a {
 a:hover {
     color: pink;
     font-style: italic;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+img {
+    width: 40%;
+    height: 40%;
+    border-radius: 25px;
+    box-shadow: 2px 2px 25px #4b3131;
 }
