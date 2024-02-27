@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="35 Zasady projektowania" />
+    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="35 Zasady projektowania">
+      <change afterPath="$PROJECT_DIR$/Zadania/40 Korekta fotofrafii/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania/40 Korekta fotofrafii/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -141,6 +145,13 @@
       <workItem from="1707833784981" duration="814000" />
       <workItem from="1707903766686" duration="1974000" />
       <workItem from="1707910976718" duration="2349000" />
+      <workItem from="1708339845017" duration="855000" />
+      <workItem from="1708438817084" duration="4000" />
+      <workItem from="1708438826335" duration="3000" />
+      <workItem from="1708438954334" duration="177000" />
+      <workItem from="1708509268390" duration="74000" />
+      <workItem from="1708509462759" duration="28000" />
+      <workItem from="1709043565990" duration="734000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -204,14 +215,6 @@
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
       <updated>1696242474379</updated>
-    </task>
-    <task id="LOCAL-00020" summary="T15">
-      <option name="closed" value="true" />
-      <created>1698057049902</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1698057049902</updated>
     </task>
     <task id="LOCAL-00021" summary="T15">
       <option name="closed" value="true" />
@@ -514,7 +517,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707913331188</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="35 Zasady projektowania">
+      <option name="closed" value="true" />
+      <created>1708340043701</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1708340043702</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
