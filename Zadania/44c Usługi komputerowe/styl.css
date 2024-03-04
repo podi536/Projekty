@@ -1,4 +1,68 @@
+body {
+    background-color: #EEEEEE;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+}
+
 .container {
     width: 1000px;
-    height: 500px;
+
+}
+
+.kontener {
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.logo, .menu {
+    background-color: #C0C0C0;
+    height: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.stopka {
+    background-color: #C0C0C0;
+    height: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: right;
+}
+
+.logo {
+    width: 400px;
+}
+
+.menu {
+    width: 600px;
+}
+
+.baner {
+    background-color: #DDDDDD;
+    height: 200px;
+}
+
+.blok-główny {
+    margin: 50px;
+}
+
+.kontener a {
+    color: #555555;
+    margin: 50px;
+    font-size: 200%;
+    text-decoration: none;
+}
+
+hr {
+    background-color: #c0c0c0;
+    width: 70%;
+    height: 2px;
+}
+
+table {
+    text-align: left;
 }

@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="40 Korekta zdjęć">
-      <change afterPath="$PROJECT_DIR$/Zadania/44c Usługi komputerowe/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/44c Usługi komputerowe/kontakt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/44c Usługi komputerowe/styl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania/44c Usługi komputerowe/uslugi.html" afterDir="false" />
+    <list default="true" id="1d5c3faa-187e-4769-aae9-489a246f6e7b" name="Changes" comment="44c Usługi komputerowe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania/44c Usługi komputerowe/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/44c Usługi komputerowe/kontakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania/44c Usługi komputerowe/styl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania/44c Usługi komputerowe/styl.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +153,9 @@
       <workItem from="1708509462759" duration="28000" />
       <workItem from="1709043565990" duration="1000000" />
       <workItem from="1709113659503" duration="594000" />
-      <workItem from="1709120510021" duration="1870000" />
+      <workItem from="1709120510021" duration="2175000" />
+      <workItem from="1709549759842" duration="320000" />
+      <workItem from="1709550090032" duration="936000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy commit">
       <created>1694595215015</created>
@@ -219,14 +219,6 @@
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
       <updated>1696242474379</updated>
-    </task>
-    <task id="LOCAL-00022" summary="17a">
-      <option name="closed" value="true" />
-      <created>1698154714229</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1698154714229</updated>
     </task>
     <task id="LOCAL-00023" summary="17a">
       <option name="closed" value="true" />
@@ -529,7 +521,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709044527237</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="44c Usługi komputerowe">
+      <option name="closed" value="true" />
+      <created>1709123129922</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1709123129922</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,7 +547,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="T06" />
     <MESSAGE value="T15" />
     <MESSAGE value="17a" />
     <MESSAGE value="17b" />
@@ -572,6 +571,7 @@
     <MESSAGE value="34 Menu w CSS" />
     <MESSAGE value="35 Zasady projektowania" />
     <MESSAGE value="40 Korekta zdjęć" />
-    <option name="LAST_COMMIT_MESSAGE" value="40 Korekta zdjęć" />
+    <MESSAGE value="44c Usługi komputerowe" />
+    <option name="LAST_COMMIT_MESSAGE" value="44c Usługi komputerowe" />
   </component>
 </project>
